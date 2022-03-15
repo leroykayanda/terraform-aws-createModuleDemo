@@ -2,7 +2,7 @@ Terraform module to provision an EC2 instance running apache.
 
 Not intended for production use.
 
-Just testiing how to create a custom module in the Terraform registry.
+Just testing how to create a custom module in the Terraform registry.
 
 
 
