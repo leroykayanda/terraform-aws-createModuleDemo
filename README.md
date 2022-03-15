@@ -6,7 +6,7 @@ Just testing how to create a custom module in the Terraform registry.
 
 
 
-    ```
+   
     provider "aws" {
       region = "us-east-1"
     }
@@ -51,5 +51,3 @@ Just testing how to create a custom module in the Terraform registry.
       }
     
     }
-   ``` 
-
